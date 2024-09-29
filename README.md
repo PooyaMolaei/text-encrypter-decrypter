@@ -3,10 +3,16 @@ This repository contains Python code for a simple command-line application that 
 Features:
 
 -Encrypts and decrypts text data using AES-256 with CFB (Cipher Feedback) mode.
+
 -Derives a secure key from a user-provided password using PBKDF2 with SHA-256 hash function.
+
 -Supports base64 encoding/decoding for ciphertext representation.
+
 -Includes detailed logging for debugging purposes (configurable log level).
+
 -User-friendly command-line interface with arguments for mode selection, plaintext/ciphertext, and key.
+
+-Records detailed logs of the encryption/decryption process for debugging and troubleshooting.
 
 
 Note:
