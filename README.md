@@ -25,14 +25,6 @@ vigenere_cipher.py: Implements the Vigenère cipher for additional encryption/de
 password_hashing.py: Handles password hashing using SHA-256 for secure storage and verification.
 
 
-Usage:
-
-Clone the repository: git clone https://github.com/your-username/your-repository-name.git
-
-Install dependencies: pip install -r requirements.txt
-
-Run the application: python main.py
-
 
 Note:
 
